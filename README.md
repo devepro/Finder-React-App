@@ -11,7 +11,7 @@ In the project directory, you can run:
 Create components and containers
 Create redux store, actions and reducers
 
-![alt text](https://github.com/devepro/Finder-React-App/blob/main/Phase1.png)
+<img src="https://github.com/devepro/Finder-React-App/blob/main/Phase1.png" width="350" height="450"/>
 
 ### `Phase 2`
 
